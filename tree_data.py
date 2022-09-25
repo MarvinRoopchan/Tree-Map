@@ -1,17 +1,3 @@
-"""Assignment 2: Trees for Treemap
-
-=== CSC148 Fall 2020 ===
-Diane Horton and David Liu
-Department of Computer Science,
-University of Toronto
-
-=== Module Description ===
-This module contains the basic tree interface required by the treemap
-visualiser. You will both add to the abstract class, and complete a
-concrete implementation of a subclass to represent files and folders on your
-computer's file system.
-"""
-
 from __future__ import annotations
 import os
 from random import randint

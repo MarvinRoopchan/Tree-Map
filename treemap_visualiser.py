@@ -1,17 +1,3 @@
-"""Assignment 2: Treemap Visualiser
-
-=== CSC148 Fall 2020 ===
-Diane Horton and David Liu
-Department of Computer Science,
-University of Toronto
-
-=== Module Description ===
-This module contains the code to run the treemap visualisation program.
-It is responsible for initializing an instance of AbstractTree (using a
-concrete subclass, of course), rendering it to the user using pygame,
-and detecting user events like mouse clicks and key presses and responding
-to them.
-"""
 import pygame
 from tree_data import FileSystemTree, AbstractTree
 

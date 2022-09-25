@@ -1,29 +1,3 @@
-"""Assignment 2 - Tests
-
-=== CSC148 Fall 2020 ===
-Daniel Zingaro, Diane Horton, and David Liu
-Department of Computer Science,
-University of Toronto
-
-=== Module Description ===
-This module contains sample tests for Assignment 2, Tasks 1 and 2.
-Note that the data set here is a pretty small one, but should be enough to
-
-give you an idea of how we could test your code.
-
-NOTES:
-    - If using PyCharm, go into your Settings window, and go to
-      Editor -> General.
-      Make sure the "Ensure line feed at file end on Save" is NOT checked.
-      Then, make sure none of the example files have a blank line at the end.
-      (If they do, the data size will be off.)
-
-    - os.listdir behaves differently on different
-      operating systems, so these tests have been updated
-      to work on the *Teaching Lab machines*.
-      Please do your testing there - otherwise,
-      you might get inaccurate test failures!
-"""
 import os
 
 import pytest
